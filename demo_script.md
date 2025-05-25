@@ -76,11 +76,19 @@ streamlit run app.py
 
 ## 10. End Demo
 - Thank the judges and highlight:
-  - Data-driven insights
-  - Accessibility and multilingual support
-  - Responsible tourism and cultural preservation focus
-  - Robust engineering and modular code
+  - Data-driven insights from real Indian art forms, experiences, and cultural data
+  - Accessibility (font size, high contrast), multilingual support (English/Hindi)
+  - Responsible tourism, cultural preservation, and community impact focus
+  - Robust engineering: modular code, error handling, and maintainability
+  - Modern UI, interactive maps, and advanced analytics
+  - All data is loaded from CSVs for demo reliability (Snowflake ready for future)
+
+- Invite questions and feedback from the judges.
 
 ---
 
 **Ready for Q&A!**
+
+---
+
+*Demo last updated: May 25, 2025*
