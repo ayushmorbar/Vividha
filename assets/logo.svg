@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background (for preview, remove if not needed) -->
+  <rect width="200" height="200" rx="40" fill="#181828"/>
+  <!-- Main lotus petals -->
+  <g stroke="#FFF" stroke-width="3">
+    <!-- Center petal -->
+    <path d="M100 45 Q115 85 100 125 Q85 85 100 45" fill="#FF6F61"/>
+    <!-- Left petal -->
+    <path d="M100 65 Q70 90 90 130 Q95 100 100 65" fill="#43B047"/>
+    <!-- Right petal -->
+    <path d="M100 65 Q130 90 110 130 Q105 100 100 65" fill="#1CA9A6"/>
+    <!-- Far left petal -->
+    <path d="M100 80 Q60 100 85 145 Q92 110 100 80" fill="#FFD700" opacity="0.8"/>
+    <!-- Far right petal -->
+    <path d="M100 80 Q140 100 115 145 Q108 110 100 80" fill="#FFD700" opacity="0.8"/>
+  </g>
+  <!-- Lotus base (stylized) -->
+  <ellipse cx="100" cy="140" rx="32" ry="10" fill="#FFD700" opacity="0.5"/>
+  <!-- Center dot (bindu) -->
+  <circle cx="100" cy="105" r="6" fill="#FFD700" stroke="#FFF" stroke-width="2"/>
+</svg>

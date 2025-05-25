@@ -1,0 +1,9 @@
+year,north,south,east,west,central,site,region,visitors,status,reason
+2021,1200000,900000,700000,800000,600000,Majuli,Assam,15000,Underdeveloped,"Remote location, limited access"
+2021,1200000,900000,700000,800000,600000,Chettinad,Tamil Nadu,20000,Underdeveloped,"Low awareness, niche interest"
+2021,1200000,900000,700000,800000,600000,Channapatna,Karnataka,25000,Underdeveloped,"Limited promotion, rural area"
+2021,1200000,900000,700000,800000,600000,Pushkar,Rajasthan,300000,Developed,"Popular festival destination"
+2022,1300000,950000,750000,850000,650000,Majuli,Assam,17000,Underdeveloped,"Remote location, limited access"
+2022,1300000,950000,750000,850000,650000,Chettinad,Tamil Nadu,22000,Underdeveloped,"Low awareness, niche interest"
+2022,1300000,950000,750000,850000,650000,Channapatna,Karnataka,27000,Underdeveloped,"Limited promotion, rural area"
+2022,1300000,950000,750000,850000,650000,Pushkar,Rajasthan,320000,Developed,"Popular festival destination"

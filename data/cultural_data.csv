@@ -1,0 +1,25 @@
+id,art_form,region,cultural_value,tourism_visibility,preservation_status
+1,Madhubani,Bihar,92,75,Well Preserved
+2,Warli,Maharashtra,88,68,Well Preserved
+3,Pattachitra,Odisha,85,55,Needs Attention
+4,Gond,Madhya Pradesh,80,40,Endangered
+5,Kalamkari,Andhra Pradesh,87,60,Well Preserved
+6,Kathakali,Kerala,95,82,Well Preserved
+7,Bharatanatyam,Tamil Nadu,93,90,Well Preserved
+8,Phad,Rajasthan,78,35,Endangered
+9,Tanjore,Tamil Nadu,89,77,Well Preserved
+10,Cheriyal,Telangana,76,30,Endangered
+11,Chhau Dance,West Bengal,83,50,Needs Attention
+12,Channapatna Toys,Karnataka,81,45,Well Preserved
+13,Blue Pottery,Rajasthan,79,38,Needs Attention
+14,Patua Scroll Art,West Bengal,84,42,Endangered
+15,Longpi Pottery,Manipur,77,28,Endangered
+16,Majuli Mask Making,Assam,82,33,Needs Attention
+17,Thoda Dance,Himachal Pradesh,75,25,Endangered
+18,Chettinad Mansions,Tamil Nadu,86,48,Needs Attention
+19,Kutch Rogan Art,Gujarat,90,52,Well Preserved
+20,Toda Embroidery,Tamil Nadu,80,29,Endangered
+21,Sikki Grass Craft,Bihar,74,22,Endangered
+22,Kondapalli Toys,Andhra Pradesh,79,33,Needs Attention
+23,Bastar Dhokra,Chhattisgarh,85,40,Needs Attention
+24,Kutch Embroidery,Gujarat,91,60,Well Preserved

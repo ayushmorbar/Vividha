@@ -1,0 +1,37 @@
+Custom License for Vividha
+
+Copyright (c) 2025 Offbeats
+
+Permission is granted to use, copy, and modify this software for non-commercial, educational, and hackathon purposes only, subject to the following terms:
+
+1. CONTRIBUTION RIGHTS GRANTED
+   1.1 You may submit code contributions via GitHub pull requests.
+   1.2 Contributions become Offbeats' exclusive property upon submission.
+
+2. EXPLICIT PROHIBITIONS
+   2.1 Commercial Use: No rights to use, sell, or monetize any code.
+   2.2 Derivative Works: No creation of derivatives except through GitHub forks.
+   2.3 AI/ML Training: Prohibits use in machine learning models/datasets.
+   2.4 Code Extraction: Bans reuse of code segments in other projects.
+   2.5 Distribution: Forbids software distribution beyond GitHub platform.
+
+3. ENFORCEMENT MECHANISMS
+   3.1 Violations terminate all rights immediately.
+   3.2 Requires attribution of original authorship in any dispute.
+   3.3 Subjects users to jurisdiction of copyright holder's location.
+
+4. CONTRIBUTION TERMS
+   4.1 Contributors waive moral rights via submission.
+   4.2 Grant Offbeats exclusive commercial rights to contributions.
+   4.3 Require signed Developer Certificate of Origin (DCO) [2].
+
+5. WARRANTY & LIABILITY
+   5.1 Software provided "AS IS" without warranty.
+   5.2 Liability limited to direct damages up to €1,000.
+
+6. PLATFORM RESTRICTIONS
+   6.1 Applies to all GitHub forks/clones.
+   6.2 Bans code mirroring to other platforms.
+   6.3 Prohibits circumvention via SaaS/API wrappers [1][5].
+
+By using, copying, or contributing to this software, you agree to these terms. For any commercial or redistribution inquiries, contact Offbeats directly.

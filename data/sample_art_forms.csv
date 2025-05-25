@@ -1,0 +1,5 @@
+# Sample Art Forms Data
+id,name,region,description,image_url
+1,Bharatanatyam,Tamil Nadu,Classical dance form from Tamil Nadu,https://example.com/bharatanatyam.jpg
+2,Warli Art,Maharashtra,Tribal art form using geometric patterns,https://example.com/warli.jpg
+3,Chhau Dance,Odisha,Martial dance with masks,https://example.com/chhau.jpg
